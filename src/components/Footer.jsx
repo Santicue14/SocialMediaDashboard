@@ -14,10 +14,11 @@ export const Footer = () => {
                         Frontend Mentor
                     </a>
                     . Coded by{' '}
+                    <a
                     <span className="text-Very-Dark-Blue dark:text-Desaturated-Blue">
                         Santicue14.
                     </span>
-                    <a
+                    
                         href="https://github.com/Santicue14"
                         className="text-Very-Dark-Blue dark:text-Desaturated-Blue flex items-center justify-center"
                         target="_blank"
